@@ -28,3 +28,6 @@ let c = 33;
 a /= 12;
 b /= 4;
 c /= 11;
+
+// task 25
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
